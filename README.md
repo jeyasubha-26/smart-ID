@@ -10,4 +10,4 @@ Smart ID is an AI-powered attendance management system that uses face recognitio
 
 ### Console Output Screenshot
 
-![Console Output](console_output.png)
+![Console Output](console_output.jpeg)
