@@ -1,0 +1,9 @@
+deepface
+opencv-python
+tensorflow
+keras
+numpy
+pandas
+scikit-learn
+pillow
+mtcnn
