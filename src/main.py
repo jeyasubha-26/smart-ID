@@ -471,7 +471,7 @@ class SmartIDController:
             )
             
             # Send notification to mentor/advisor
-            recipient_email = "jeyasubhaganesan02@gmail.com"
+            recipient_email = os.getenv("MENTOR_MAIL")
             
             # Check if absent students exist
             if attendance_data.get('absent_list') and len(attendance_data['absent_list']) > 0:
